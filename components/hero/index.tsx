@@ -3,6 +3,8 @@ import React from 'react';
 import {CheckIcon} from '../icons/CheckIcon';
 import {Box} from '../styles/box';
 import {Flex} from '../styles/flex';
+import Image from 'next/image';
+import Personal from "../../public/assets/personal/personal.png";
 
 export const Hero = () => {
    return (
@@ -133,7 +135,8 @@ export const Hero = () => {
                   },
                }}
             >
-               <img src="/assets/personal/personal.png" />
+               {/* <img src="/assets/personal/personal.png" alt='/' /> */}
+               <Image src={Personal} width={775} objectFit='contain' alt='/' blurDataURL='URL' placeholder='blur' loading='lazy' />
             </Box>
          </Flex>
          <Divider

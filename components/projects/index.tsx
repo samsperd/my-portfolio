@@ -20,7 +20,7 @@ export const Projects = () => {
           <Text span css={{ color: '$blue600' }}>
             Projects
           </Text>
-          <Text h2>What I've Built</Text>
+          <Text h2>{`What I've Built`}</Text>
         </Flex>
 
         <Flex

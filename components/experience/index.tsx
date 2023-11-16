@@ -64,7 +64,7 @@ export const Experience = () => {
                            <Text span>
                               <li>Developed a Chrome extension called ChatGPT Speechifier that enhances the ChatGPT experience by converting the chat (text) responses into speech.</li>
                               <li>Implemented the extension using JavaScript, HTML, and CSS, leveraging the Chrome Extension API for integration and functionality.</li>
-                              <li>Enabled users to listen to ChatGPT's text responses with a single click, improving accessibility and user experience.</li>
+                              <li>{`Enabled users to listen to ChatGPT's text responses with a single click, improving accessibility and user experience.`}</li>
                               <li>Featured on Chrome Web Store as a recommended Chrome extension for ChatGPT users.</li>
                               <li>Received positive feedback from users for the added convenience and usability of the extension.</li>
                            </Text>

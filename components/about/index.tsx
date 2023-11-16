@@ -39,14 +39,14 @@ export const About = () => {
                      color: '$accents8',
                   }}
                >
-                  My name is Obinna Iloeje. I currently live in Lagos, Nigeria. <br />
-                  I specialize in building mobile responsive front-end UI applications and Browser Extensions as well as Backend(Rest) APIs and Technologies that interacts with the frontend Applications.
-                  I'm very passionate about learning new technologies and I understand there is more than one way to accomplish a task. <br />
+                  {`My name is Obinna Iloeje. I currently live in Lagos, Nigeria.`} <br />
+                  {`I specialize in building mobile responsive front-end UI applications and Browser Extensions as well as Backend(Rest) APIs and Technologies that interacts with the frontend Applications.
+                  I'm very passionate about learning new technologies and I understand there is more than one way to accomplish a task.`} <br />
                   <br />
-                  I started Web Development in 2017 when I registered for its course at FemTech Institute of Technology Ilorin, Nigeria.
+                  {`I started Web Development in 2017 when I registered for its course at FemTech Institute of Technology Ilorin, Nigeria.
                   As I was taught how to use technologies like HTML, CSS, JavaScript, SQL and Procedural PHP to make a web application, 
-                  I avariciously grabbed the knowledge and researched more on relevant topics as the Avid learner I am. <br />
-                  Since then, I have acquired more skills; mastered more technologies; taught and delivered both Company projects, Freelancing projects and Personal projects alike.
+                  I avariciously grabbed the knowledge and researched more on relevant topics as the Avid learner I am.`} <br />
+                  {`Since then, I have acquired more skills; mastered more technologies; taught and delivered both Company projects, Freelancing projects and Personal projects alike.`}
                </Text>
 
                <Flex
@@ -92,8 +92,8 @@ export const About = () => {
                            color: '$accents8',
                         }}
                      >
-                        Experienced and Equipped with backend technologies such as Firebase, PHP, Laravel, Node.js, MongoDB and SQL,
-                        I build Rest API's to interact with frontend applications as well as Browser Extensions.
+                        {`Experienced and Equipped with backend technologies such as Firebase, PHP, Laravel, Node.js, MongoDB and SQL,
+                        I build Rest API's to interact with frontend applications as well as Browser Extensions.`}
                      </Text>
                   </Flex>
                </Flex>
